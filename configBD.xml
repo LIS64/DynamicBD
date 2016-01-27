@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database-config>
+	<urlBD>jdbc:oracle:thin:@localhost:1521:XE</urlBD>
+	<loginBD>system</loginBD>
+	<passwordBD>040792</passwordBD>
+	<JDBCDriver>oracle.jdbc.driver.OracleDriver</JDBCDriver>
+</database-config>
